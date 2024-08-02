@@ -1,6 +1,6 @@
 @font-face {
     font-family: oswald;
-    src: url('/fonts/Oswald-Bold.ttf');
+    src: url('fonts/Oswald-Bold.ttf');
 }
 
 body {
@@ -156,14 +156,14 @@ body {
   }
 
   .trailer-section{
-    background-image: url('/images/trailer.jpg');
+    background-image: url('images/trailer.jpg');
     height: 43em;
     margin-left: 10%;
     margin-right: 10%;
   }
 
   .bg-image {
-    background-image: url('/images/trailer.jpg'); /* Change this to your image path */
+    background-image: url('images/trailer.jpg'); /* Change this to your image path */
     background-size: cover;
     background-position: center;
     position: relative;
